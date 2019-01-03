@@ -18,7 +18,7 @@
 
 ```bash
 docker build -t piecioshka/demo:1 .
-docker run --rm piecioshka/demo:1
+docker run piecioshka/demo:1
 ```
 
 ## Related

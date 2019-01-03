@@ -6,8 +6,8 @@
 
 ## Features
 
-* :white_check_mark: Create [Dockerfile](./blob/master/Dockerfile)
-* :white_check_mark: Create [.dockerignore](./blob/master/.dockerignore)
+* :white_check_mark: Create `Dockerfile`
+* :white_check_mark: Create `.dockerignore`
 * :white_check_mark: Create `src/index.js` with "hello world" app
 
 ## Usage

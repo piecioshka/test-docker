@@ -6,9 +6,13 @@
 
 ## Features
 
-* :white_check_mark: Create `Dockerfile`
-* :white_check_mark: Create `.dockerignore`
-* :white_check_mark: Create `src/index.js` with "hello world" app
+* :white_check_mark: Run simple Node.js app with Docker
+
+## Step by step 👣
+
+* Create `Dockerfile`
+* Create `.dockerignore`
+* Create `src/index.js` with "hello world" app
 
 ## Usage
 
@@ -20,6 +24,7 @@ docker run --rm piecioshka/demo:1
 ## Related
 
 * [test-docker-http](https://github.com/piecioshka/test-docker-http) - HTTP server in Node.js with Docker
+* [test-docker-express-mongo](https://github.com/piecioshka/test-docker-express-mongo) - Two apps: Express.js and MongoDB with Docker
 
 ## License
 

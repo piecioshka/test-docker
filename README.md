@@ -7,11 +7,12 @@
 ## Features
 
 * :white_check_mark: Create [Dockerfile](./blob/master/Dockerfile)
-* :white_check_mark: Create [.dockerignore`](./blob/master/.dockerignore)
+* :white_check_mark: Create [.dockerignore](./blob/master/.dockerignore)
+* :white_check_mark: Create `src/index.js` with "hello world" app
 
 ## Usage
 
-```javascript
+```bash
 docker build -t piecioshka/demo:1 .
 docker run --rm piecioshka/demo:1
 ```

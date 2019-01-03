@@ -17,6 +17,10 @@ docker build -t piecioshka/demo:1 .
 docker run --rm piecioshka/demo:1
 ```
 
+## Related
+
+* [test-docker-http](https://github.com/piecioshka/test-docker-http) - HTTP server in Node.js with Docker
+
 ## License
 
 [The MIT License](http://piecioshka.mit-license.org) @ 2019

@@ -12,8 +12,8 @@
 ## Usage
 
 ```javascript
-docker build -t demo/1 .
-docker run demo/1
+docker build -t piecioshka/demo:1 .
+docker run --rm piecioshka/demo:1
 ```
 
 ## License

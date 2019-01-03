@@ -11,14 +11,17 @@
     },
     "scripts": {
         "clear": "echo",
-        "clear:all": "rm -rf node_modules/",
-        "start": "node index.js",
-        "dev": "nodemon index.js"
+        "clear:all": "rm -rf node_modules/ && npm run clear",
+        "start": "node src/index.js",
+        "dev": "nodemon src/index.js",
+        "lint": "eslint ."
     },
     "dependencies": {
         "ora": "^3.0.0"
     },
     "devDependencies": {
+        "eslint": "^5.11.0",
+        "eslint-config-piecioshka": "^2.0.1",
         "nodemon": "^1.18.9"
     },
     "repository": {

@@ -17,6 +17,7 @@
         "lint": "eslint ."
     },
     "dependencies": {
+        "node-fetch": "^2.3.0",
         "ora": "^3.0.0"
     },
     "devDependencies": {

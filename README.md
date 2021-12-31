@@ -1,7 +1,5 @@
 # test-docker
 
-[![dependencies](https://david-dm.org/piecioshka/test-docker.svg)](https://github.com/piecioshka/test-docker)
-
 :ledger: Testing Docker with simple Node.js app
 
 ## Features
